@@ -1,0 +1,136 @@
+{
+  "intents": [
+    {
+      "intent": "growing_tips_general",
+      "patterns": [
+        "What are some general tips for growing cannabis?",
+        "How can I improve my cannabis growth?",
+        "What do I need to know before growing cannabis?"
+      ],
+      "responses": [
+        "To grow cannabis successfully, you need the right environment, high-quality seeds, and consistent care. Ensure proper lighting, temperature, and humidity control, as well as good soil or hydroponic systems."
+      ]
+    },
+    {
+      "intent": "growing_tips_soil",
+      "patterns": [
+        "What kind of soil is best for cannabis?",
+        "Should I use organic soil for cannabis?",
+        "How do I choose soil for growing cannabis?"
+      ],
+      "responses": [
+        "Cannabis thrives in well-draining, nutrient-rich soil. A good option is a balanced organic soil mix with added perlite for aeration and vermiculite for moisture retention. Ensure the pH of the soil is between 6.0 and 7.0."
+      ]
+    },
+    {
+      "intent": "growing_tips_lighting",
+      "patterns": [
+        "What is the best lighting for growing cannabis?",
+        "How many hours of light do cannabis plants need?",
+        "When should I switch the light cycle for my cannabis plants?"
+      ],
+      "responses": [
+        "Cannabis plants need around 18-24 hours of light during the vegetative stage and 12 hours during the flowering stage. Use high-quality LED or HID lights, and ensure they are placed at the correct distance from the plants to avoid light burn."
+      ]
+    },
+    {
+      "intent": "growing_tips_temperature",
+      "patterns": [
+        "What is the ideal temperature for cannabis plants?",
+        "How hot is too hot for cannabis?",
+        "How do I control the temperature in my grow room?"
+      ],
+      "responses": [
+        "The ideal temperature for cannabis plants is between 65-80°F (18-27°C) during the day. At night, temperatures should drop slightly. Excess heat can cause plants to stress and hinder growth, so use fans, air conditioning, or ventilation to regulate the temperature."
+      ]
+    },
+    {
+      "intent": "growing_tips_humidity",
+      "patterns": [
+        "What humidity level is best for growing cannabis?",
+        "How do I control humidity in my grow room?",
+        "What happens if humidity is too high or low for cannabis?"
+      ],
+      "responses": [
+        "Cannabis plants thrive with humidity levels between 40-60% during the vegetative stage and 40-50% during flowering. Too much humidity can cause mold, while too little can dry out the plants. Use a hygrometer to monitor and adjust as needed."
+      ]
+    },
+    {
+      "intent": "growing_tips_watering",
+      "patterns": [
+        "How often should I water cannabis plants?",
+        "What is the best way to water cannabis?",
+        "Should I water cannabis plants every day?"
+      ],
+      "responses": [
+        "Water cannabis plants when the top inch of soil feels dry to the touch. Overwatering can lead to root rot, so ensure good drainage. Water deeply, allowing excess water to drain, but avoid leaving water in saucers."
+      ]
+    },
+    {
+      "intent": "growing_tips_nutrients",
+      "patterns": [
+        "What nutrients do cannabis plants need?",
+        "Should I use fertilizer for cannabis?",
+        "How do I fertilize cannabis plants?"
+      ],
+      "responses": [
+        "Cannabis plants require nitrogen, phosphorus, and potassium, along with trace minerals like calcium, magnesium, and sulfur. Use a balanced fertilizer during the vegetative stage and a bloom-specific fertilizer during flowering. Be cautious not to over-fertilize."
+      ]
+    },
+    {
+      "intent": "growing_tips_pruning",
+      "patterns": [
+        "How do I prune cannabis plants?",
+        "When should I start pruning cannabis?",
+        "Why should I prune cannabis plants?"
+      ],
+      "responses": [
+        "Pruning helps improve airflow and encourages the plant to focus its energy on growing bigger buds. Begin pruning during the vegetative stage by removing lower branches and leaves that aren't receiving much light. Avoid heavy pruning during flowering."
+      ]
+    },
+    {
+      "intent": "growing_tips_stress",
+      "patterns": [
+        "How do I reduce stress on my cannabis plants?",
+        "What causes cannabis plants to stress?",
+        "How do I tell if my cannabis plants are stressed?"
+      ],
+      "responses": [
+        "Cannabis plants can experience stress from environmental factors like temperature fluctuations, overwatering, pests, or nutrient imbalances. Stress signs include wilting, yellowing leaves, or drooping. Keep your environment consistent and handle plants gently to minimize stress."
+      ]
+    },
+    {
+      "intent": "growing_tips_pests",
+      "patterns": [
+        "How do I protect my cannabis from pests?",
+        "What are common pests for cannabis plants?",
+        "How do I deal with cannabis pests?"
+      ],
+      "responses": [
+        "Common pests include aphids, spider mites, and whiteflies. Use natural pest control methods like neem oil, ladybugs, or diatomaceous earth. Regularly inspect plants for pests and remove any affected leaves."
+      ]
+    },
+    {
+      "intent": "growing_tips_cloning",
+      "patterns": [
+        "How do I clone cannabis plants?",
+        "What is the process for cloning cannabis?",
+        "When should I take cannabis clones?"
+      ],
+      "responses": [
+        "Cloning cannabis involves cutting a healthy stem, dipping the end in rooting hormone, and placing it in a moist growing medium like rockwool. Keep the clone in a humid environment with indirect light until it develops roots."
+      ]
+    },
+    {
+      "intent": "growing_tips_advanced_techniques",
+      "patterns": [
+        "What are advanced cannabis growing techniques?",
+        "How do I use hydroponics for cannabis?",
+        "What is LST and how do I do it?"
+      ],
+      "responses": [
+        "Advanced techniques include hydroponics, Low Stress Training (LST), and ScrOG (Screen of Green). LST involves bending branches to encourage horizontal growth, and ScrOG uses a net to create an even canopy. Hydroponics involves growing plants in water with added nutrients."
+      ]
+    }
+  ]
+}

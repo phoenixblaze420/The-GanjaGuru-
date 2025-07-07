@@ -1,0 +1,243 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "How are you?"],
+      "responses": ["Hello!", "Hey there!", "Hi! How can I assist you?"]
+    },
+    {
+      "intent": "strain_info",
+      "patterns": ["What is Blue Dream?", "Tell me about Blue Dream", "What are the effects of Blue Dream?"],
+      "responses": ["Blue Dream is a hybrid strain known for its balanced effects, with relaxing and euphoric qualities."]
+    },
+    {
+      "intent": "cannabis_cultivation",
+      "patterns": ["How do I grow cannabis?", "What do I need to grow cannabis?", "How do I set up a grow room?"],
+      "responses": ["To grow cannabis, you need the right lighting, soil, temperature control, and water supply."]
+    },
+    {
+      "intent": "edible_info",
+      "patterns": ["What are cannabis edibles?", "How do edibles work?", "Tell me about edibles."],
+      "responses": ["Cannabis edibles are food products infused with cannabis. They take longer to kick in but last longer than smoking."]
+    },
+    {
+      "intent": "cbd_vs_thc",
+      "patterns": ["What’s the difference between CBD and THC?", "How does CBD differ from THC?", "CBD vs THC, what's better?"],
+      "responses": ["CBD is non-psychoactive and often used for pain relief, while THC is psychoactive and gives the 'high' associated with cannabis."]
+    },
+    {
+      "intent": "indica_vs_sativa",
+      "patterns": ["What’s the difference between Indica and Sativa?", "Indica or Sativa?", "Which is better, Indica or Sativa?"],
+      "responses": ["Indica strains are relaxing and sedative, while Sativa strains are more uplifting and energizing."]
+    },
+    {
+      "intent": "cannabis_laws",
+      "patterns": ["Is cannabis legal?", "Where is cannabis legal?", "Cannabis laws, what do I need to know?"],
+      "responses": ["Cannabis laws vary by country and state. Always check your local regulations before purchasing or using cannabis."]
+    },
+    {
+      "intent": "dosing_edibles",
+      "patterns": ["How do I dose cannabis edibles?", "What is the right dosage for edibles?", "How much THC is in this edible?"],
+      "responses": ["Start with a low dose, around 5-10 mg, and wait at least 2 hours before considering more. Edibles can take time to kick in."]
+    },
+    {
+      "intent": "growing_outdoor",
+      "patterns": ["How do I grow cannabis outdoors?", "What’s needed to grow cannabis outside?", "Outdoor cannabis cultivation tips."],
+      "responses": ["Outdoor cannabis cultivation requires proper sunlight, space, and protection from pests. Make sure you have a good climate."]
+    },
+    {
+      "intent": "growing_indoor",
+      "patterns": ["How do I grow cannabis indoors?", "What do I need for indoor cannabis cultivation?", "Indoor grow room setup."],
+      "responses": ["Indoor growing requires grow lights, temperature control, proper ventilation, and air filtration systems."]
+    },
+    {
+      "intent": "harvest_time",
+      "patterns": ["When should I harvest cannabis?", "How do I know when to harvest?", "What is the right time to harvest cannabis?"],
+      "responses": ["Harvest when the trichomes are milky white or amber, depending on your desired effect. Check the pistils for signs of maturity."]
+    },
+    {
+      "intent": "cannabis_strains_for_pain",
+      "patterns": ["Which strain is good for pain relief?", "What are the best strains for pain?", "Strains for chronic pain."],
+      "responses": ["Strains high in CBD like ACDC and Harlequin are great for pain relief without causing a strong high."]
+    },
+    {
+      "intent": "vaping_info",
+      "patterns": ["What is vaping cannabis?", "How does cannabis vaping work?", "Tell me about cannabis vaping."],
+      "responses": ["Vaping involves heating cannabis to a point where the active compounds are released as vapor, without combustion."]
+    },
+    {
+      "intent": "cannabis_for_anxiety",
+      "patterns": ["Which strains help with anxiety?", "What cannabis is good for anxiety?", "Can cannabis help with anxiety?"],
+      "responses": ["Strains with higher CBD content, such as ACDC or Cannatonic, are known to help reduce anxiety."]
+    },
+    {
+      "intent": "cannabinoids_explained",
+      "patterns": ["What are cannabinoids?", "Explain cannabinoids to me.", "What are the different cannabinoids in cannabis?"],
+      "responses": ["Cannabinoids are chemical compounds found in cannabis, such as THC and CBD, that interact with the body’s endocannabinoid system."]
+    },
+    {
+      "intent": "microdosing",
+      "patterns": ["What is microdosing?", "How do I microdose cannabis?", "Is microdosing cannabis effective?"],
+      "responses": ["Microdosing involves taking very small doses of cannabis to experience subtle effects without getting 'high'."]
+    },
+    {
+      "intent": "cannabis_effects",
+      "patterns": ["What are the effects of cannabis?", "How does cannabis affect you?", "What does cannabis do?"],
+      "responses": ["Cannabis can cause a range of effects, from relaxation and euphoria to increased creativity or appetite."]
+    },
+    {
+      "intent": "tinctures_info",
+      "patterns": ["What are cannabis tinctures?", "How do tinctures work?", "Tell me about cannabis tinctures."],
+      "responses": ["Cannabis tinctures are liquid extracts that you take sublingually (under the tongue) for quick absorption of cannabinoids."]
+    },
+    {
+      "intent": "cannabis_for_sleep",
+      "patterns": ["Which strains help with sleep?", "What cannabis is best for sleep?", "Can cannabis help me sleep?"],
+      "responses": ["Indica strains like Granddaddy Purple and Northern Lights are known for their relaxing, sleep-inducing effects."]
+    },
+    {
+      "intent": "thc_levels",
+      "patterns": ["What is the THC content?", "How much THC is in this strain?", "What are the THC levels in cannabis?"],
+      "responses": ["THC levels vary by strain, typically ranging from 10% to 30%. Higher THC levels produce stronger psychoactive effects."]
+    },
+    {
+      "intent": "cannabis_side_effects",
+      "patterns": ["What are the side effects of cannabis?", "Is cannabis safe to use?", "Can cannabis cause side effects?"],
+      "responses": ["Some side effects of cannabis include dry mouth, red eyes, increased heart rate, and temporary memory impairment."]
+    },
+    {
+      "intent": "grow_lights",
+      "patterns": ["What type of lights do I need for growing cannabis?", "How do grow lights work?", "Tell me about grow lights for cannabis."],
+      "responses": ["Cannabis plants need high-quality grow lights such as LEDs or HPS for optimal growth. Different stages of growth need different light spectrums."]
+    }
+  ]
+}
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "How are you?"],
+      "responses": ["Hello!", "Hey there!", "Hi! How can I assist you?"]
+    },
+    {
+      "intent": "strain_info",
+      "patterns": ["What is Blue Dream?", "Tell me about Blue Dream", "What are the effects of Blue Dream?"],
+      "responses": ["Blue Dream is a hybrid strain known for its balanced effects, with relaxing and euphoric qualities."]
+    },
+    {
+      "intent": "cannabis_cultivation",
+      "patterns": ["How do I grow cannabis?", "What do I need to grow cannabis?", "How do I set up a grow room?"],
+      "responses": ["To grow cannabis, you need the right lighting, soil, temperature control, and water supply."]
+    },
+    {
+      "intent": "edible_info",
+      "patterns": ["What are cannabis edibles?", "How do edibles work?", "Tell me about edibles."],
+      "responses": ["Cannabis edibles are food products infused with cannabis. They take longer to kick in but last longer than smoking."]
+    },
+    {
+      "intent": "cbd_vs_thc",
+      "patterns": ["What’s the difference between CBD and THC?", "How does CBD differ from THC?", "CBD vs THC, what's better?"],
+      "responses": ["CBD is non-psychoactive and often used for pain relief, while THC is psychoactive and gives the 'high' associated with cannabis."]
+    },
+    {
+      "intent": "indica_vs_sativa",
+      "patterns": ["What’s the difference between Indica and Sativa?", "Indica or Sativa?", "Which is better, Indica or Sativa?"],
+      "responses": ["Indica strains are relaxing and sedative, while Sativa strains are more uplifting and energizing."]
+    },
+    {
+      "intent": "cannabis_laws",
+      "patterns": ["Is cannabis legal?", "Where is cannabis legal?", "Cannabis laws, what do I need to know?"],
+      "responses": ["Cannabis laws vary by country and state. Always check your local regulations before purchasing or using cannabis."]
+    },
+    {
+      "intent": "dosing_edibles",
+      "patterns": ["How do I dose cannabis edibles?", "What is the right dosage for edibles?", "How much THC is in this edible?"],
+      "responses": ["Start with a low dose, around 5-10 mg, and wait at least 2 hours before considering more. Edibles can take time to kick in."]
+    },
+    {
+      "intent": "growing_outdoor",
+      "patterns": ["How do I grow cannabis outdoors?", "What’s needed to grow cannabis outside?", "Outdoor cannabis cultivation tips."],
+      "responses": ["Outdoor cannabis cultivation requires proper sunlight, space, and protection from pests. Make sure you have a good climate."]
+    },
+    {
+      "intent": "growing_indoor",
+      "patterns": ["How do I grow cannabis indoors?", "What do I need for indoor cannabis cultivation?", "Indoor grow room setup."],
+      "responses": ["Indoor growing requires grow lights, temperature control, proper ventilation, and air filtration systems."]
+    },
+    {
+      "intent": "harvest_time",
+      "patterns": ["When should I harvest cannabis?", "How do I know when to harvest?", "What is the right time to harvest cannabis?"],
+      "responses": ["Harvest when the trichomes are milky white or amber, depending on your desired effect. Check the pistils for signs of maturity."]
+    },
+    {
+      "intent": "cannabis_strains_for_pain",
+      "patterns": ["Which strain is good for pain relief?", "What are the best strains for pain?", "Strains for chronic pain."],
+      "responses": ["Strains high in CBD like ACDC and Harlequin are great for pain relief without causing a strong high."]
+    },
+    {
+      "intent": "vaping_info",
+      "patterns": ["What is vaping cannabis?", "How does cannabis vaping work?", "Tell me about cannabis vaping."],
+      "responses": ["Vaping involves heating cannabis to a point where the active compounds are released as vapor, without combustion."]
+    },
+    {
+      "intent": "cannabis_for_anxiety",
+      "patterns": ["Which strains help with anxiety?", "What cannabis is good for anxiety?", "Can cannabis help with anxiety?"],
+      "responses": ["Strains with higher CBD content, such as ACDC or Cannatonic, are known to help reduce anxiety."]
+    },
+    {
+      "intent": "cannabinoids_explained",
+      "patterns": ["What are cannabinoids?", "Explain cannabinoids to me.", "What are the different cannabinoids in cannabis?"],
+      "responses": ["Cannabinoids are chemical compounds found in cannabis, such as THC and CBD, that interact with the body’s endocannabinoid system."]
+    },
+    {
+      "intent": "microdosing",
+      "patterns": ["What is microdosing?", "How do I microdose cannabis?", "Is microdosing cannabis effective?"],
+      "responses": ["Microdosing involves taking very small doses of cannabis to experience subtle effects without getting 'high'."]
+    },
+    {
+      "intent": "cannabis_effects",
+      "patterns": ["What are the effects of cannabis?", "How does cannabis affect you?", "What does cannabis do?"],
+      "responses": ["Cannabis can cause a range of effects, from relaxation and euphoria to increased creativity or appetite."]
+    },
+    {
+      "intent": "tinctures_info",
+      "patterns": ["What are cannabis tinctures?", "How do tinctures work?", "Tell me about cannabis tinctures."],
+      "responses": ["Cannabis tinctures are liquid extracts that you take sublingually (under the tongue) for quick absorption of cannabinoids."]
+    },
+    {
+      "intent": "cannabis_for_sleep",
+      "patterns": ["Which strains help with sleep?", "What cannabis is best for sleep?", "Can cannabis help me sleep?"],
+      "responses": ["Indica strains like Granddaddy Purple and Northern Lights are known for their relaxing, sleep-inducing effects."]
+    },
+    {
+      "intent": "thc_levels",
+      "patterns": ["What is the THC content?", "How much THC is in this strain?", "What are the THC levels in cannabis?"],
+      "responses": ["THC levels vary by strain, typically ranging from 10% to 30%. Higher THC levels produce stronger psychoactive effects."]
+    },
+    {
+      "intent": "cannabis_side_effects",
+      "patterns": ["What are the side effects of cannabis?", "Is cannabis safe to use?", "Can cannabis cause side effects?"],
+      "responses": ["Some side effects of cannabis include dry mouth, red eyes, increased heart rate, and temporary memory impairment."]
+    },
+    {
+      "intent": "grow_lights",
+      "patterns": ["What type of lights do I need for growing cannabis?", "How do grow lights work?", "Tell me about grow lights for cannabis."],
+      "responses": ["Cannabis plants need high-quality grow lights such as LEDs or HPS for optimal growth. Different stages of growth need different light spectrums."]
+    },
+    {
+      "intent": "storage_tips",
+      "patterns": ["How should I store my cannabis?", "What’s the best way to store cannabis?", "How do I keep cannabis fresh?"],
+      "responses": ["Store cannabis in a cool, dark place in an airtight container to maintain its potency and freshness."]
+    },
+    {
+      "intent": "cannabis_consumption_methods",
+      "patterns": ["What are the different ways to consume cannabis?", "How can I consume cannabis?", "What are the consumption methods?"],
+      "responses": ["You can consume cannabis by smoking, vaping, eating edibles, or using tinctures, among other methods."]
+    },
+    {
+      "intent": "terpenes_explained",
+      "patterns": ["What are terpenes?", "How do terpenes affect cannabis?", "Explain cannabis terpenes."],
+      "responses": ["Terpenes are aromatic compounds found in cannabis that contribute to its flavor and effect. They can enhance the experience of cannabis."]
+    }
+  ]
+}

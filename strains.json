@@ -1,0 +1,256 @@
+{
+  "strains": [
+    {
+      "name": "Blue Dream",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Euphoric", "Creative"],
+      "thc_content": "18-24%"
+    },
+    {
+      "name": "Gorilla Glue",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Sedative", "Calming"],
+      "thc_content": "25-30%"
+    },
+    {
+      "name": "OG Kush",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Euphoric", "Happy"],
+      "thc_content": "20-25%"
+    },
+    {
+      "name": "Sour Diesel",
+      "type": "Sativa",
+      "effects": ["Energizing", "Uplifting", "Creative"],
+      "thc_content": "18-25%"
+    },
+    {
+      "name": "Granddaddy Purple",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "17-23%"
+    },
+    {
+      "name": "Gelato",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Happy", "Euphoric"],
+      "thc_content": "18-25%"
+    },
+    {
+      "name": "Green Crack",
+      "type": "Sativa",
+      "effects": ["Energetic", "Focus", "Happy"],
+      "thc_content": "15-20%"
+    },
+    {
+      "name": "Wedding Cake",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Happy", "Uplifting"],
+      "thc_content": "20-25%"
+    },
+    {
+      "name": "Northern Lights",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "16-21%"
+    },
+    {
+      "name": "White Widow",
+      "type": "Hybrid",
+      "effects": ["Euphoric", "Creative", "Relaxing"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Purple Haze",
+      "type": "Sativa",
+      "effects": ["Energetic", "Creative", "Happy"],
+      "thc_content": "18-25%"
+    },
+    {
+      "name": "Amnesia Haze",
+      "type": "Sativa",
+      "effects": ["Energetic", "Euphoric", "Creative"],
+      "thc_content": "20-25%"
+    },
+    {
+      "name": "Lemon Haze",
+      "type": "Sativa",
+      "effects": ["Uplifting", "Euphoric", "Happy"],
+      "thc_content": "18-23%"
+    },
+    {
+      "name": "Pineapple Express",
+      "type": "Hybrid",
+      "effects": ["Uplifting", "Euphoric", "Creative"],
+      "thc_content": "18-26%"
+    },
+    {
+      "name": "Jack Herer",
+      "type": "Sativa",
+      "effects": ["Energetic", "Creative", "Uplifting"],
+      "thc_content": "18-24%"
+    },
+    {
+      "name": "Tahoe OG Kush",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Sedative"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Bubba Kush",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Maui Wowie",
+      "type": "Sativa",
+      "effects": ["Energetic", "Euphoric", "Happy"],
+      "thc_content": "15-20%"
+    },
+    {
+      "name": "Skywalker OG",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sedative", "Sleepy"],
+      "thc_content": "20-26%"
+    },
+    {
+      "name": "Trainwreck",
+      "type": "Hybrid",
+      "effects": ["Euphoric", "Energetic", "Creative"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Kush Mints",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Euphoric", "Creative"],
+      "thc_content": "20-26%"
+    },
+    {
+      "name": "Zkittlez",
+      "type": "Indica",
+      "effects": ["Relaxing", "Happy", "Euphoric"],
+      "thc_content": "18-23%"
+    },
+    {
+      "name": "Strawberry Cough",
+      "type": "Sativa",
+      "effects": ["Uplifting", "Energetic", "Creative"],
+      "thc_content": "15-20%"
+    },
+    {
+      "name": "Blueberry",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "16-24%"
+    },
+    {
+      "name": "Sherbet",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Happy", "Creative"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "LA Confidential",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Sedative"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Chernobyl",
+      "type": "Hybrid",
+      "effects": ["Euphoric", "Creative", "Relaxing"],
+      "thc_content": "18-23%"
+    },
+    {
+      "name": "Blue Cheese",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Euphoric", "Happy"],
+      "thc_content": "17-22%"
+    },
+    {
+      "name": "Chemdawg",
+      "type": "Hybrid",
+      "effects": ["Euphoric", "Creative", "Relaxing"],
+      "thc_content": "18-24%"
+    },
+    {
+      "name": "Sweet Tooth",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "15-20%"
+    },
+    {
+      "name": "Fruity Pebbles",
+      "type": "Hybrid",
+      "effects": ["Euphoric", "Relaxing", "Creative"],
+      "thc_content": "20-25%"
+    },
+    {
+      "name": "Pineapple Kush",
+      "type": "Hybrid",
+      "effects": ["Relaxing", "Happy", "Euphoric"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Citrus Sap",
+      "type": "Hybrid",
+      "effects": ["Uplifting", "Energetic", "Euphoric"],
+      "thc_content": "20-26%"
+    },
+    {
+      "name": "Critical Mass",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sedative", "Sleepy"],
+      "thc_content": "18-23%"
+    },
+    {
+      "name": "Granddaddy Purple",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Orange Bud",
+      "type": "Sativa",
+      "effects": ["Energetic", "Uplifting", "Happy"],
+      "thc_content": "16-21%"
+    },
+    {
+      "name": "God's Gift",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sedative", "Euphoric"],
+      "thc_content": "19-23%"
+    },
+    {
+      "name": "Acapulco Gold",
+      "type": "Sativa",
+      "effects": ["Euphoric", "Creative", "Energetic"],
+      "thc_content": "18-23%"
+    },
+    {
+      "name": "Ghost OG",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sleepy", "Euphoric"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "MK Ultra",
+      "type": "Indica",
+      "effects": ["Relaxing", "Sedative", "Happy"],
+      "thc_content": "18-22%"
+    },
+    {
+      "name": "Durban Poison",
+      "type": "Sativa",
+      "effects": ["Energizing", "Happy", "Uplifting"],
+      "thc_content": "16-22%"
+    },
+    {
+      "name": "Purple Punch",
+      "type": "Indica",
+      "effects": ["Relaxing", "Euphoric", "Sleepy"],
+      "thc_content": "18-25%"
+    }
+  ]
+}

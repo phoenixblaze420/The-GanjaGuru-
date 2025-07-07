@@ -1,0 +1,69 @@
+{
+    "responses": {
+        "greeting": [
+            "Hello! How can I help you today?",
+            "Hi there! What do you want to know about cannabis?",
+            "Greetings! How can I assist you?",
+            "Hey! Ready to dive into the world of cannabis?",
+            "Welcome! What questions do you have?",
+            "Hi! I'm here to help with your cannabis queries.",
+            "Hello! What can I do for you today?",
+            "Good to see you! What would you like to learn about?",
+            "Hi! Interested in exploring cannabis information?",
+            "Hey there! How can I make your day better?"
+        ],
+        "goodbye": [
+            "Goodbye! Have a great day!",
+            "See you later! Don't hesitate to come back if you have more questions.",
+            "Take care! Feel free to return anytime.",
+            "Catch you later! Enjoy your day!",
+            "Goodbye! Remember, I'm just a message away!",
+            "See you! Stay curious about cannabis!",
+            "Farewell! Have a wonderful time!",
+            "Until next time! Keep exploring!",
+            "Goodbye! Wishing you all the best!",
+            "Take care! Looking forward to our next chat!"
+        ],
+        "error": [
+            "I'm sorry, I didn't understand that. Can you rephrase?",
+            "Hmm... Can you provide more details?",
+            "Oops! I didn't catch that. Try asking differently.",
+            "Sorry, I couldn't understand your request. Can you clarify?",
+            "I’m not sure what you mean. Could you elaborate?",
+            "My apologies! It seems I need a little more information.",
+            "I'm here to help, but I didn't quite get that. Could you try again?",
+            "That was a bit unclear for me. Can you explain further?",
+            "I'm having trouble understanding. Let's try that again!",
+            "Sorry! I need more context to assist you better."
+        ],
+        "thanks": [
+            "You're welcome! If you have more questions, feel free to ask.",
+            "No problem! I'm here to help anytime.",
+            "Glad I could assist you! Let me know if you need anything else.",
+            "Anytime! Don't hesitate to reach out!",
+            "You're welcome! Happy to help!",
+            "It’s my pleasure! Let me know if there's more I can do.",
+            "You're very welcome! I'm here whenever you need me.",
+            "Glad to be of service! What else can I assist you with?"
+        ],
+        "small_talk": [
+            "Did you know that cannabis has been used for thousands of years?",
+            "What's your favorite way to use cannabis?",
+            "Have you tried any interesting strains lately?",
+            "What do you think about the recent changes in cannabis laws?",
+            "If you could create your own strain, what would it be called?",
+            "What’s your favorite cannabis-related activity?",
+            "Do you have any fun plans for the weekend?",
+            "What’s your go-to snack when you consume cannabis?"
+        ],
+        "feedback": [
+            "I’d love to hear your feedback! How can I improve?",
+            "Your thoughts are important! How did you find this chat?",
+            "Let me know if there's anything you'd like to change!",
+            "I'm always looking to improve. What did you think?",
+            "How was your experience today? Any suggestions?",
+            "I appreciate your feedback! What can I do better?",
+            "Please share your thoughts! I'm here to learn."
+        ]
+    }
+}
